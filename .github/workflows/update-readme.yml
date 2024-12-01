@@ -17,10 +17,14 @@ jobs:
         with:
           node-version: 16
 
+      - name: Install Dependencies
+        run: npm install @octokit/core
+
       - name: Run Update Script
-        run: |
-          npx @octokit/core --json > output.json # Replace with your script
+        run: node update-readme.js
+
       - name: Commit and Push Changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "Update README with latest external contributions"
+          branch: main
