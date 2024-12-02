@@ -9,7 +9,7 @@ I love automation, optimization, and theory. I live to teach the world and to in
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-psi-nine-86.vercel.app/api?username=relspas&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=relspas&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=relspas&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=relspas&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
 ## 🔄 Contributions to Other Projects:
 <!--START_SECTION:external-contributions-->
 <!-- List of contributions will be dynamically updated here -->
